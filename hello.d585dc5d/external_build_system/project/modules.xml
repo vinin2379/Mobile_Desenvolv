@@ -1,0 +1,11 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hello.iml" filepath="$PROJECT_DIR$/.idea/modules/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hello.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hello.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hello.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hello.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hello.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hello.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hello.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hello.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
